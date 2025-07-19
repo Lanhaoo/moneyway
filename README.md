@@ -1,1 +1,1 @@
-# moneyway
+@lanhaoapi.moneyway.sbs$abc
